@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.22.9
+
+### Patch Changes
+
+- 53d22a85: Prevent `opened-changed` event to be sent twice
+
 ## 0.22.8
 
 ### Patch Changes
